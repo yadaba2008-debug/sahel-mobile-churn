@@ -16,8 +16,7 @@ et livrer un tableau de bord Streamlit pour les chefs de produit.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Lien de l'application déployée : _à compléter (Streamlit Community Cloud)_
-
+Lien de l'application déployée : [https://yadaba2008-debug-sahel-mobile-churn-app-stme8x.streamlit.app](https://yadaba2008-debug-sahel-mobile-churn-app-stme8x.streamlit.app/)
 ## Décisions de nettoyage
 | Problème détecté | Décision | Justification |
 |---|---|---|
