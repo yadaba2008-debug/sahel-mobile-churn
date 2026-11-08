@@ -30,9 +30,9 @@ Lien de l'application déployée : [https://yadaba2008-debug-sahel-mobile-churn-
 - **Taux de résiliation global : 26,5 %** (1 869 abonnés sur 7 043).
 - **Contrat** : mensuel 42,7 %, annuel 11,3 %, biannuel 2,8 %. Écart de 39,9 points, soit 15 fois plus de résiliations en mensuel qu'en biannuel.
 - **Ancienneté** : le risque est maximal sur les 6 premiers mois (52,9 %) et diminue ensuite jusqu'à 9,5 % après 49 mois.
-- **Fibre optique** : 41,9 % de résiliation contre 19,0 % pour le DSL, et toujours plus à contrat égal. Hypothèse (non démontrée) : facture plus élevée (91,5 " en moyenne contre 58,1 " pour le DSL).
+- **Fibre optique** : 41,9 % de résiliation contre 19,0 % pour le DSL, et toujours plus à contrat égal. Hypothèse (non démontrée) : facture plus élevée (91,5 en moyenne contre 58,1 " pour le DSL).
 - **Profil à risque** (contrat mensuel + fibre + sans sécurité en ligne + sans support technique) : **1 524 abonnés, 21,6 % du parc**, avec 60,7 % de résiliation.
-- **Revenu menacé** : 599 abonnés du profil sont encore actifs, soit **50 640 " de facturation mensuelle** à protéger en priorité.
+- **Revenu menacé** : 599 abonnés du profil sont encore actifs, soit **50 640 de facturation mensuelle** à protéger en priorité.
 
 ## Définitions retenues
 - *Abonné à risque* : client **encore actif** qui présente le profil à risque ci-dessus.
