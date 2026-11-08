@@ -6,7 +6,7 @@ et livrer un tableau de bord Streamlit pour les chefs de produit.
 ## Contenu du dépôt
 | Fichier | Rôle |
 |---|---|
-| `notebook.ipynb` | Exploration, nettoyage commenté, réponses aux 4 questions |
+| `Examen_Finale.ipynb` | Exploration, nettoyage commenté, réponses aux 4 questions |
 | `cleaning.py` | Logique de nettoyage, réutilisée par le notebook et l'app |
 | `app.py` | Application Streamlit (3 pages) |
 | `projet2_telco_churn.csv` | Données brutes (7 043 abonnés, 21 colonnes) |
